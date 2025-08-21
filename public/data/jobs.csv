@@ -1,0 +1,6 @@
+id,title,company,location,type,description,tags,applyUrl,companyUrl
+1,Frontend Engineer,Acme Inc,Remote,Full-time,Build delightful UIs with React and Tailwind,"React,TypeScript,Tailwind",https://example.com/apply,https://acme.example.com
+2,Backend Developer,Globex,New York,Full-time,Design scalable APIs with Node and PostgreSQL,"Node.js,PostgreSQL,Docker",https://example.com/apply,https://globex.example.com
+3,Product Designer,Initech,San Francisco,Contract,Design user-centric experiences,"Figma,UX,Prototyping",https://example.com/apply,https://initech.example.com
+4,Data Analyst,Umbrella Corp,Remote,Part-time,Analyze data and build dashboards,"SQL,Tableau,Python",https://example.com/apply,https://umbrella.example.com
+5,Mobile Engineer,Stark Industries,Berlin,Full-time,Develop mobile apps using React Native,"React Native,TypeScript,CI/CD",https://example.com/apply,https://stark.example.com
